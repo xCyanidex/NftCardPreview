@@ -48,5 +48,5 @@ To create a card with with responsive design and hover effects
 
 ## Author
 
-- Github - [correlucas](https://github.com/xCyanidex/NftCardPreview)
-- Frontend Mentor - [@correlucas](https://www.frontendmentor.io/profile/xCyanidex)
+- Github - [xCyanidex](https://github.com/xCyanidex/NftCardPreview)
+- Frontend Mentor - [@xCyanidex](https://www.frontendmentor.io/profile/xCyanidex)
